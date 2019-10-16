@@ -1,0 +1,20 @@
+Canadian Dollars(CAD)=1.0
+U.S. Dollars(USD)=1.3647
+Bahrain Cash(BHD)=3.8025
+Brazil Cash(BRL)=0.4087
+British Pound(GBP)=1.7663
+Bulgarian Cash(BGN)=0.8368
+Chinese Cash(CNY)=0.2037
+Czech Koruna(CZK)=0.0648
+Euro(EUR)=1.5708
+Australian Dollar(AUD)=1.0234
+Hong Kong Dollar(HKD)=0.1822
+Japanese Yen(JPY)=0.01215
+Mexican Peso(MXN)=0.06991
+Russian Cash(RUB)=0.02241
+Saudi Arabian Riyal(SAR)=0.389
+Singapore Dollar(SGD)=1.0281
+Swiss Franc(CHF)=1.3797
+Turkish Lira(TRY)=0.2953
+
+
